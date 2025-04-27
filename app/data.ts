@@ -29,7 +29,7 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'Motion Primitives Pro',
+    name: 'Geared Up',
     description:
       'Advanced components and templates to craft beautiful websites.',
     link: 'https://pro.motion-primitives.com/',
@@ -38,7 +38,7 @@ export const PROJECTS: Project[] = [
     id: 'project1',
   },
   {
-    name: 'Motion Primitives',
+    name: 'West Auckland Water Blasting',
     description: 'UI kit to make beautiful, animated interfaces.',
     link: 'https://motion-primitives.com/',
     video:
@@ -53,7 +53,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Student',
     start: 'Jan 2025',
     end: 'May 2025',
-    link: 'https://ibelick.com',
+    link: 'https://devacademy.co.nz/',
     id: 'work1',
   },
   {
@@ -61,7 +61,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Intermediate Creative',
     start: 'Jun 2021',
     end: 'Jun 2024',
-    link: 'https://ibelick.com',
+    link: 'https://www.omd.com/?fbclid=PAZXh0bgNhZW0CMTEAAafGWcStR9NBBKAN7XD-Dj2l3C1OVHzVxqhwOCg7GYTiVeZkZtHIFPyTxLzcSw_aem_r1Bu-zcAhRaEedISKmgZZw',
     id: 'work2',
   },
   {
@@ -69,7 +69,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Intern',
     start: 'Sep 2023',
     end: 'Dec 2023',
-    link: 'https://ibelick.com',
+    link: 'https://fcb.co.nz/',
     id: 'work3',
   },
 ]
@@ -89,10 +89,9 @@ export const BLOG_POSTS: BlogPost[] = [
     uid: 'blog-2',
   },
   {
-    title: 'What I learned from my first year of freelancing',
-    description:
-      'A look back at my first year of freelancing and what I learned',
-    link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
+    title: 'Hey, thanks for stopping by!',
+    description: 'A little bit about me',
+    link: '/blog/a-little-bit-about-me',
     uid: 'blog-3',
   },
 ]
@@ -100,7 +99,7 @@ export const BLOG_POSTS: BlogPost[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'Github',
-    link: 'https://github.com/ibelick',
+    link: 'https://github.com/taine-buchan',
   },
   {
     label: 'Twitter',
@@ -108,11 +107,11 @@ export const SOCIAL_LINKS: SocialLink[] = [
   },
   {
     label: 'LinkedIn',
-    link: 'https://www.linkedin.com/in/ibelick',
+    link: 'https://www.linkedin.com/in/taine-buchan/',
   },
   {
-    label: 'Instagram',
-    link: 'https://www.instagram.com/ibelick',
+    label: 'Spotify',
+    link: 'https://open.spotify.com/artist/2Va5HJXZdv6y4JvBDhCIZ1?si=dfs9jTOmQDS4ACzdhqHmeA',
   },
 ]
 
