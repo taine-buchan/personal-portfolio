@@ -8,7 +8,7 @@ const SpinningStar = () => {
 
   return (
     <div
-      className="relative h-30 w-30 overflow-hidden"
+      className="relative h-22 w-22 overflow-hidden"
       style={{
         clipPath: starShape,
         animation: 'spin 50s linear infinite',

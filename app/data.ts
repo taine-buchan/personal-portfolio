@@ -76,19 +76,6 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
-    title: 'Exploring the Intersection of Design, AI, and Design Engineering',
-    description: 'How AI is changing the way we design',
-    link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
-    uid: 'blog-1',
-  },
-  {
-    title: 'Why I left my job to start my own company',
-    description:
-      'A deep dive into my decision to leave my job and start my own company',
-    link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
-    uid: 'blog-2',
-  },
-  {
     title: 'Hey, thanks for stopping by!',
     description: 'A little bit about me',
     link: '/blog/a-little-bit-about-me',
@@ -102,8 +89,8 @@ export const SOCIAL_LINKS: SocialLink[] = [
     link: 'https://github.com/taine-buchan',
   },
   {
-    label: 'Twitter',
-    link: 'https://twitter.com/ibelick',
+    label: 'Download my CV',
+    link: 'https://res.cloudinary.com/dmu6ukzz7/image/upload/v1745789847/Taine_Buchan_Resume_23April_ekyzss.pdf',
   },
   {
     label: 'LinkedIn',
