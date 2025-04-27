@@ -137,8 +137,12 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            Focused on creating intuitive and performant web experiences.
-            Bridging the gap between design and development.
+            I’m Taine, hailing from West Auckland. I’m looking for opportunities
+            in front-end and UX/UI development. Focused on creating intuitive
+            and performant web experiences and bridging the gap between design
+            and development.. This space is where I share what I’ve been working
+            on projects, experiments, and sometimes the messy middle learnings
+            of some new tech.
           </p>
         </div>
       </motion.section>

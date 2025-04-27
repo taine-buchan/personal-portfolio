@@ -49,26 +49,26 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'Reglazed Studio',
-    title: 'CEO',
-    start: '2024',
-    end: 'Present',
+    company: 'Dev Academy (simulated work environment)',
+    title: 'Student',
+    start: 'Jan 2025',
+    end: 'May 2025',
     link: 'https://ibelick.com',
     id: 'work1',
   },
   {
-    company: 'Freelance',
-    title: 'Design Engineer',
-    start: '2022',
-    end: '2024',
+    company: 'OMD',
+    title: 'Intermediate Creative',
+    start: 'Jun 2021',
+    end: 'Jun 2024',
     link: 'https://ibelick.com',
     id: 'work2',
   },
   {
-    company: 'Freelance',
-    title: 'Front-end Developer',
-    start: '2017',
-    end: 'Present',
+    company: 'FCB',
+    title: 'Intern',
+    start: 'Sep 2023',
+    end: 'Dec 2023',
     link: 'https://ibelick.com',
     id: 'work3',
   },
@@ -116,4 +116,4 @@ export const SOCIAL_LINKS: SocialLink[] = [
   },
 ]
 
-export const EMAIL = 'your@email.com'
+export const EMAIL = 'tainebuchanwork@gmail.com'
