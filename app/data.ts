@@ -31,15 +31,15 @@ export const PROJECTS: Project[] = [
   {
     name: 'Geared Up',
     description:
-      'Advanced components and templates to craft beautiful websites.',
+      'A companion tool for the Great Walks of New Zealand. Designed with Figma, built with React, Express, Tailwind CSS, SQLite3.',
     link: 'https://pro.motion-primitives.com/',
-    video:
-      'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4?_a=DATAdtAAZAA0',
+    video: '',
     id: 'project1',
   },
   {
     name: 'West Auckland Water Blasting',
-    description: 'UI kit to make beautiful, animated interfaces.',
+    description:
+      'A full service maintanence website designed in Figma and built with NextJS, Vercel, Tailwind CSS, and Resend',
     link: 'https://motion-primitives.com/',
     video:
       'https://res.cloudinary.com/dmu6ukzz7/video/upload/v1745837281/wawb-demo-one_vbq1aq.mov',
