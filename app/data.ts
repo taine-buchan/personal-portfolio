@@ -40,7 +40,7 @@ export const PROJECTS: Project[] = [
     name: 'West Auckland Water Blasting',
     description:
       'A full service maintanence website designed in Figma and built with NextJS, Supabase, Vercel, Tailwind CSS, and Resend',
-    link: 'https://motion-primitives.com/',
+    link: 'https://wawb.vercel.app/',
     video:
       'https://res.cloudinary.com/dmu6ukzz7/video/upload/v1745837281/wawb-demo-one_vbq1aq.mov',
     id: 'project2',
