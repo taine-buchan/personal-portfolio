@@ -31,15 +31,16 @@ export const PROJECTS: Project[] = [
   {
     name: 'Geared Up',
     description:
-      'A companion tool for the Great Walks of New Zealand. Designed with Figma, built with React, Express, Tailwind CSS, SQLite3.',
+      'A companion tool for the Great Walks of New Zealand. UI designed in Figma, front end built with React, TypeScript, and Tailwind CSS. Back end powered by Express and SQLite3.',
     link: 'https://pro.motion-primitives.com/',
-    video: '',
+    video:
+      'https://res.cloudinary.com/dmu6ukzz7/video/upload/v1746055562/gearedup_jzdif6.mov',
     id: 'project1',
   },
   {
     name: 'West Auckland Water Blasting',
     description:
-      'A full service maintanence website designed in Figma and built with NextJS, Supabase, Vercel, Tailwind CSS, and Resend',
+      'A freelance water blasting website built with Next.js, TypeScript, and Tailwind CSS, using Supabase for service data and Resend for email notifications. Deployed on Vercel',
     link: 'https://www.westaucklandwaterblasting.com/',
     video:
       'https://res.cloudinary.com/dmu6ukzz7/video/upload/v1746026897/wawb_flwqqf.mov',
