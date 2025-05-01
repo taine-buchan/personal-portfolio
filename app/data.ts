@@ -32,7 +32,7 @@ export const PROJECTS: Project[] = [
     name: 'Geared Up',
     description:
       'A companion tool for the Great Walks of New Zealand. UI designed in Figma, front end built with React, TypeScript, and Tailwind CSS. Back end powered by Express and SQLite3.',
-    link: 'https://pro.motion-primitives.com/',
+    link: 'https://github.com/taine-buchan/geared-up/',
     video:
       'https://res.cloudinary.com/dmu6ukzz7/video/upload/v1746055562/gearedup_jzdif6.mov',
     id: 'project1',
