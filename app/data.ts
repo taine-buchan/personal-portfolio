@@ -51,7 +51,7 @@ export const PROJECTS: Project[] = [
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
     company: 'Dev Academy (simulated work environment)',
-    title: 'Student',
+    title: 'Full-Stack Developer (Student)',
     start: 'Jan 2025',
     end: 'May 2025',
     link: 'https://devacademy.co.nz/',
