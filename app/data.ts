@@ -46,6 +46,15 @@ export const PROJECTS: Project[] = [
       'https://res.cloudinary.com/dmu6ukzz7/video/upload/v1746026897/wawb_flwqqf.mov',
     id: 'project2',
   },
+  {
+    name: 'Password Gentleman',
+    description:
+      'Password generator built with vanilla Javascript, HTML and CSS. Features interactive UI elements, sound effects, and responsive design for an enhanced user experience',
+    link: 'https://password-gentleman.netlify.app//',
+    video:
+      'https://res.cloudinary.com/dmu6ukzz7/video/upload/v1746658894/0508_oplsu4.mov',
+    id: 'project3',
+  },
 ]
 
 export const WORK_EXPERIENCE: WorkExperience[] = [

@@ -13,8 +13,10 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: 'Taine Buchan - Personal Portoflio',
-  description:
-    'A website showing my front end development and design journey',
+  description: 'A website showing my front end development and design journey',
+  icons: {
+    icon: '/favicon.ico',
+  },
 }
 
 const geist = Geist({
