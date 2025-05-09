@@ -139,12 +139,33 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            I’m Taine, hailing from West Auckland. I’m looking for opportunities
-            in front-end and UX/UI development. Focused on creating intuitive
-            and performant web experiences and bridging the gap between design
-            and development.. This space is where I share what I’ve been working
-            on projects, experiments, and sometimes the messy middle learnings
-            of some new tech.
+            Kia ora, I'm Taine from West Auckland. Last year I was building a
+            creative advertising portfolio using a no-code platform when
+            something clicked. That moment sparked a real interest in software
+            development. By mid-2024, I decided to step away from advertising
+            and commit fully to a career in tech.
+          </p>
+          <br />
+          <p className="text-zinc-600 dark:text-zinc-400">
+            I transitioned full-time into software development and completed Dev
+            Academy's intensive 800+ hour full-stack bootcamp. There, I honed my
+            skills in Agile environments, teamwork, and building projects from
+            scratch. Though I’m passionate about front-end development, I've
+            worked across the stack and enjoy tackling challenges in both
+            development and design. When I'm away from the keyboard, I’m an avid
+            Warriors fan, love to sing and occasionally like to pretend I'm
+            Gordon Ramsay.
+          </p>
+          <br />
+          <p className="text-zinc-600 dark:text-zinc-400">
+            I'm driven by solving real problems, building well-structured and
+            user-focused projects, and constantly learning new frameworks and
+            languages. I work best in fast-paced Agile teams where I can
+            contribute, collaborate, and keep pushing my skills forward.
+          </p>
+          <br />
+          <p className="text-zinc-600 dark:text-zinc-400">
+            Scroll down to see my work and please don't hesitate to reach out!
           </p>
         </div>
       </motion.section>
@@ -216,7 +237,7 @@ export default function Personal() {
         </div>
       </motion.section>
 
-      <motion.section
+      {/* <motion.section
         variants={VARIANTS_SECTION}
         transition={TRANSITION_SECTION}
       >
@@ -250,7 +271,7 @@ export default function Personal() {
             ))}
           </AnimatedBackground>
         </div>
-      </motion.section>
+      </motion.section> */}
 
       <motion.section
         variants={VARIANTS_SECTION}

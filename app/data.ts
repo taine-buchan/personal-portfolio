@@ -99,7 +99,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
     link: 'https://github.com/taine-buchan',
   },
   {
-    label: 'Download my CV',
+    label: 'CV',
     link: 'https://res.cloudinary.com/dmu6ukzz7/image/upload/v1745789847/Taine_Buchan_Resume_23April_ekyzss.pdf',
   },
   {
